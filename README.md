@@ -1,0 +1,2 @@
+# WorldTicketProject
+Junior QA assignment
